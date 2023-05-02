@@ -1,0 +1,44 @@
+Juan Ballesteros / Teiva Ulufatu
+CMSI 2120
+Philosophy: Ch. 14 (Choosing Names)
+ 
+Importance of Names:
+An underrated and important aspect to CS
+Decent naming leads to easier understanding of code
+Choosing incorrectly leads to redundancy and bugs
+Take a little more time than usual to create a name
+Help you avoid future issues, name creating practice
+
+Imagine:
+Create an image about what the name pertains to
+Must be precise ( no generic names, no repeats)
+Names are an abstraction
+simple representations of complex ideas
+A good name will give lots of information 
+Think to yourself: “If anyone were to see the name without documentation or code, how closely would they be able to identify what it refers to?”
+Two important properties of naming: precision and consistency
+
+Precision:
+Don’t be vague and generic 
+Bad Ex: Naming a variable “result” when used in a method with no return value. 
+Ensure name does not refer to multiple entities
+Having some generic names can be okay
+Ex: i or j in loops
+Could improve design by displaying weaknesses
+Hard to pick a name? Object might not be specific or clean design
+
+Consistency:
+In any program there are variables that are used repeatedly
+Try to use the same name everywhere
+Reduces cognitive load as the repetitive use will allow the programmer to instantly make assumptions within other contexts
+Ensure the purpose is narrow enough so that all variables with the name have the same function 
+Ex: i and j in loops
+
+Opinionated:
+Many developers have different ideas behind naming 
+Some believe that variable names should only be one letter
+Called Go culture
+
+
+
+
